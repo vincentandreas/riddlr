@@ -31,11 +31,8 @@ dependencies:
   google_fonts: ^2.1.0
   chips_choice: ^2.0.1
   carousel_slider: ^4.0.0
-  flappy_search_bar: ^1.7.2
   firebase_core: ^1.6.0
   cloud_firestore: ^2.5.1
-  bloc: ^7.0.0
-  flutter_bloc: ^7.0.1
   flutter_progress_hud: ^2.0.0
   http: ^0.13.0
   http_parser: 4.0.0
@@ -45,7 +42,6 @@ dependencies:
   path: ^1.8.0
   image_picker: ^0.8.2
   multi_select_flutter: ^4.0.0
-  marquee_widget: ^1.2.0
   shared_preferences: 2.0.6
   flutter_native_splash: ^1.2.1
 
