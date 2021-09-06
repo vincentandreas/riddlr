@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025132201458",
+    "project_id": "starton-service",
+    "storage_bucket": "starton-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025132201458:android:80c5d789e280ee2848d76b",
+        "android_client_info": {
+          "package_name": "com.blackjack.starton2021.start_on_2021_competition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025132201458-o8i12jfs1eakotovrfqinqtq8a2kpm20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjWFYmtSmwD9nuf9rGUc7BpPqk9Ke5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025132201458-o8i12jfs1eakotovrfqinqtq8a2kpm20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
