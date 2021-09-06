@@ -12,6 +12,7 @@ import 'edit_mca_new.dart';
 
 class QuizGenerationWaitView extends StatelessWidget {
   static const String id = 'quiz_generation_wait_view';
+
   const QuizGenerationWaitView({Key? key}) : super(key: key);
 
   genQuestion(BuildContext context, dynamic args) async {

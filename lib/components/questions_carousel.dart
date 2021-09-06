@@ -18,6 +18,7 @@ class QuestionsCarousel extends StatefulWidget {
   final List listAnswerControllers;
   final List listTrueAnswers;
   final bool isEditable;
+
   @override
   _QuestionsCarouselState createState() =>
       _QuestionsCarouselState(this.isEditable);
@@ -96,6 +97,7 @@ class _QuestionsCarouselState extends State<QuestionsCarousel> {
   }
 
   bool isEditable;
+
   _QuestionsCarouselState(this.isEditable);
 
   @override

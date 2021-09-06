@@ -23,6 +23,7 @@ class SaveMcaDetails extends StatefulWidget {
 class _SaveMcaDetailsState extends State<SaveMcaDetails> {
   var selectedCat = [];
   var titleCon = TextEditingController();
+
   generateItems() {
     var cate = [
       'Grade 1',

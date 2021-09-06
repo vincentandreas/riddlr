@@ -1,4 +1,4 @@
-# start_on_2021_competition
+# Riddlr
 
 An application to help teachers to generates quiz based on article
 

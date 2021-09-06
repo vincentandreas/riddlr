@@ -16,6 +16,7 @@ class QuizItemCard extends StatelessWidget {
   final QuizItemCardModel quizItemCardModel;
   final bool tappable;
   final dynamic quizObj;
+
   @override
   Widget build(BuildContext context) {
     return Hero(
