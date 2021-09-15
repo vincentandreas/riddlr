@@ -27,7 +27,7 @@ Riddlr is built with Flutter as a mobile app. Its backend is created using Jupyt
 ![Tech Stack](docs/3.png)
 
 ### 📚 Pitch Deck
-Fancy reading the pitch deck used in our demo day? You can check them here.
+Fancy reading the pitch deck used in our demo day? You can check them [here](https://github.com/vincentandreas/start_on_2021_competition/raw/master/docs/Riddlr%20Pitch%20Deck.pdf).
 
 
 
